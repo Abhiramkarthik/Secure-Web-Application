@@ -1,0 +1,42 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url("cp.jpeg");
+    background-size: cover;
+    text-align: center;
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+}
+
+
+.container {
+    background-color: rgba(97, 189, 222, 0.8);
+    color: rgb(34, 74, 233);
+    border-radius: 10px;
+    height: auto;
+    min-height: 150px;
+    width: 30%;
+    margin: 300px auto 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.container a {
+    display: inline-block;
+    margin: 35px auto 0 auto;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 8px;
+    border: none;
+    height: 30px;
+    width: 155px;
+    padding: 5px 10px 0 10px;
+    background-color: rgb(255, 255, 255);
+}
